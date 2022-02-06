@@ -40,4 +40,5 @@
       checks whether 2048 is present or not
       
       
+![Screenshot](2048_output.png)
 
